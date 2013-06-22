@@ -1,0 +1,4 @@
+wkt
+===
+
+Dump du Wiktionnaire
